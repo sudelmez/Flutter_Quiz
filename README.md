@@ -1,4 +1,4 @@
-# class_ex
+It is an easy quiz app to create for beginners.
 
 A new Flutter project.
 
